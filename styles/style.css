@@ -553,8 +553,9 @@ body {
 .clients-section,
 .faq-section {
     padding: var(--spacing-xl) 0;
-    background: var(--color-bg-darker)
+    background: var(--color-bg-darker);
 }
+
 
 .about-image-placeholder,
 .shipping-stat,
